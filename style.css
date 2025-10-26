@@ -1,0 +1,10 @@
+ /* Définition des polices pour un look robuste et professionnel */
+    body { font-family: 'Inter', sans-serif; }
+    .font-headline { font-family: 'Roboto Slab', serif; }
+    /* Couleurs inspirées du BTP: Bleu foncé, Gris Béton, et un Orange/Jaune de sécurité pour l'accent */
+    .text-primary { color: #1E3A8A; /* Bleu Profond */ }
+    .bg-primary { background-color: #1E3A8A; }
+    .bg-accent { background-color: #FBBF24; /* Jaune/Orange de Sécurité */ }
+    .text-accent { color: #FBBF24; }
+    /* Style des cartes et ombres pour l'effet de robustesse */
+    .card-shadow { box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05); }
